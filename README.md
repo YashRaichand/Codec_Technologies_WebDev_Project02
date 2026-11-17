@@ -1,6 +1,6 @@
 # InkAI - AI-Powered Blogging Platform
 
-A full-stack MERN blogging platform with AI content generation powered by Claude (Anthropic API).
+A full-stack MERN blogging platform with AI content generation
 
 ## Features
 - **User Authentication** (JWT-based register/login)
